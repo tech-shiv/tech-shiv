@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning PHP & WordPress Customization
 - 💞️ I’m looking to collaborate on WordPress Custom Development
-- 📫 How to reach me ... You can call me +91-8264472300 or email me on info.techieshiv@gmail.com
+- 📫 How to reach me ... You can call me +91-9808208737 or email me on info.techieshiv@gmail.com
 
 <!---
 tech-shiv/tech-shiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
