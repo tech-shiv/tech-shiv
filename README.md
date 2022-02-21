@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tech-shiv
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP & WordPress Customization
+- 🌱 I’m currently working on PHP (Laravel Framwork) & WordPress Customization
 - 💞️ I’m looking to collaborate on WordPress Custom Development
 - 📫 How to reach me ... You can call me +91-9808208737 or email me on info.techieshiv@gmail.com
 
