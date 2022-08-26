@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tech-shiv" alt="tech-shiv" /></a> </p>
 
-- 🔭 I’m currently working on [Web Development](610weblab.com)
+- 🔭 I’m currently working on [Web Development](https://www.zibtek.com/)
 
-- 🌱 I’m currently learning **Laravel, Vue.js, CI/CD**
+- 🌱 I’m currently learning **Vue.js, CI/CD**
 
 - 👨‍💻 All of my projects are available at [techieshiv.com](techieshiv.com)
 
-- 📝 I regularly write articles on [https://wemdev.in](https://wemdev.in)
+- 📝 I regularly write articles on [https://ezstudy.in](https://ezstudy.in)
 
-- 💬 Ask me about **WordPress**
+- 💬 Ask me about **WordPress, Laravel**
 
 - 📫 How to reach me **info.techieshiv@gmail.com**
 
