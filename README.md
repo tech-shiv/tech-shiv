@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Vue.js, CI/CD**
 
-- 👨‍💻 All of my projects are available at [techieshiv.com](techieshiv.com)
+- 👨‍💻 All of my projects are available at ([techieshiv.com](http://techieshiv.com/))
 
 - 📝 I regularly write articles on [https://ezstudy.in](https://ezstudy.in)
 
