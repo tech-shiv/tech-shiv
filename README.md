@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shiv Kumar Sharma</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tech-shiv&label=Profile%20views&color=0e75b6&style=flat" alt="tech-shiv" /> <img src="https://github-profile-trophy.vercel.app/?username=tech-shiv" alt="tech-shiv" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tech-shiv&label=Profile%20views&color=0e75b6&style=flat" alt="tech-shiv" /> </p>
+  <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=tech-shiv" alt="tech-shiv" /></a> </p>
 
 - 🔭 I’m currently working on [Web Development](https://www.zibtek.com/)
 
